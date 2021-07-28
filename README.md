@@ -4,7 +4,7 @@
 
 #### [线上热资产安全解决方案](Online-Hot-Asset-Security-Solution.md)
 
-#### 冷资产安全解决方案 (to be done)
+#### [冷资产安全解决方案](Cold-Asset-Security-Solution.md)
 
 #### [DeFi资产安全解决方案](DeFi-Asset-Security-Solution.md)
 
