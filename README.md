@@ -1,5 +1,7 @@
 # 加密资产安全解决方案 by SlowMist
 
+[English Version](en/README.md)
+
 本方案由慢雾安全团队整理，旨在为加密世界的参与者提供全方位的资产安全解决方案。我们将加密资产安全整理划分为了以下五大部分，并针对每一部分做了详细的解读，包括各类风险及相关的解决方案。
 
 ![](images/Cryptocurrency-Security.png)
