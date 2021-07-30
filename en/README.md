@@ -4,12 +4,12 @@ This solution is organized by the SlowMist Security Team and aims to provide a f
 
 ![](images/Cryptocurrency-Security.png)
 
-#### [线上热资产安全解决方案](../Online-Hot-Asset-Security-Solution.md)
+#### [Online Hot Asset Security Solution](Online-Hot-Asset-Security-Solution.md)
 
-#### [冷资产安全解决方案](../Cold-Asset-Security-Solution.md)
+#### [Cold Asset Security Solution](Cold-Asset-Security-Solution.md)
 
-#### [DeFi资产安全解决方案](../DeFi-Asset-Security-Solution.md)
+#### [DeFi Asset Security Solution](DeFi-Asset-Security-Solution.md)
 
-#### [资产所有权安全备份解决方案](../Asset-Ownership-Backup-Security-Solution.md)
+#### [Asset Ownership Backup Security Solution](Asset-Ownership-Backup-Security-Solution.md)
 
-#### [资产异常监控及追踪解决方案](../Asset-Abnormal-Monitoring-And-Tracking-Solution.md)
+#### [Asset Abnormal Monitoring And Tracking Solution](Asset-Abnormal-Monitoring-And-Tracking-Solution.md)
