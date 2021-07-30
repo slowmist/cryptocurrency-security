@@ -1,4 +1,4 @@
-# 加密资产安全解决方案 by SlowMist
+# Cryptocurrency Security Solution by SlowMist
 
 This solution is organized by the SlowMist Security Team and aims to provide a full range of asset security solutions for participants in the crypto world. We divide the security of crypto assets into the following five major parts, and make a detailed interpretation of each part, including various risks and related solutions.
 
