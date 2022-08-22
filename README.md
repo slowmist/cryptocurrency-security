@@ -15,3 +15,6 @@
 #### [资产所有权安全备份解决方案](Asset-Ownership-Backup-Security-Solution.md)
 
 #### [资产异常监控及追踪解决方案](Asset-Abnormal-Monitoring-And-Tracking-Solution.md)
+
+### 个人加密资产安全
+关于个人加密资产安全的建议指南，欢迎阅读[《区块链黑暗森林自救手册》](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
