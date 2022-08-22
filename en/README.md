@@ -13,3 +13,6 @@ This solution is organized by the SlowMist Security Team and aims to provide a f
 #### [Asset Ownership Backup Security Solution](Asset-Ownership-Backup-Security-Solution.md)
 
 #### [Asset Abnormal Monitoring And Tracking Solution](Asset-Abnormal-Monitoring-And-Tracking-Solution.md)
+
+### Personal Cryptocurrency Security
+If you want to know personal cryptocurrency security, please read [《Blockchain dark forest selfguard handbook》](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
