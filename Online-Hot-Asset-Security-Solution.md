@@ -30,11 +30,6 @@ Fireblocks是全球较早的提供基于MPC技术提供加密货币协同存管�
 
 官网：https://www.fireblocks.com
 
-#### CYBAVO
-面向未来的银行级加密货币管理解决方案。
-
-官网：https://www.cybavo.com/zh-cn
-
 #### TSS 开源库
 This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm) following a similar approach.
 TSS是币安开源的门限签名的库，目前支持的算法有ECDSA及EdDSA，开发语言为Go。

@@ -30,11 +30,6 @@ FireBlocks is one of the earliest service providers in the world to provide coll
 
 Official website: https://www.fireblocks.com
 
-#### CYBAVO
-Future-oriented bank-level cryptocurrency management solution.
-
-Official website: https://www.cybavo.com/zh-cn
-
 #### TSS open source library
 This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm) following a similar approach.
 
