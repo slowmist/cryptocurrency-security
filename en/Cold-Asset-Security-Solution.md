@@ -30,6 +30,13 @@ imKey is a hardware wallet with built-in CC EAL 6+ security chip, ultra-thin bod
 
 Official website: https://imkey.im
 
+#### Keystone
+Keystone is an open-source airgap hardware wallet that utilizes an embedded system. The device is equipped with three secure element chips. One of Keystone’s unique features is to support multiple recovery seed phrases.
+
+Keystone is currently the only hardware wallet that is compatible with both MetaMask desktop and mobile versions.
+
+Official website: https://keyst.one
+
 ### App Cold Wallet
 
 #### imToken Cold Wallet
