@@ -37,6 +37,11 @@ Keystone is currently the only hardware wallet that is compatible with both Meta
 
 Official website: https://keyst.one
 
+#### OneKey
+OneKey is a fully open-source hardware wallet brand equipped with a security chip. It features a comprehensive ecosystem that includes support for mobile devices, browser extensions, and desktop clients. The wallet currently supports over 40 public blockchains and natively supports almost all EVM chains.
+
+Official Website: https://onekey.so
+
 ### App Cold Wallet
 
 #### imToken Cold Wallet
