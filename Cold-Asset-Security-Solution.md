@@ -31,11 +31,15 @@ imKey 是一款内置CC EAL 6+ 安全芯片 · 超薄机身 · 蓝牙连接 · �
 官网：https://imkey.im
 
 #### Keystone
-Keystone是一款全开源的Air-Gap硬件钱包，为了进一步增强安全性，Keystone3 Pro配备了来自三套不同厂商安全芯片（Secure Elements），并支持在一台设备上贮存多套助记词。
+Keystone 是一款全开源的Air-Gap硬件钱包，为了进一步增强安全性，Keystone3 Pro配备了来自三套不同厂商安全芯片（Secure Elements），并支持在一台设备上贮存多套助记词。
 
 是目前唯一一款与MetaMask（插件与移动端）均进行了整合的硬件钱包。
 
 官网：https://keyst.one
+
+#### OneKey
+OneKey 是一款有安全芯片且全开源的硬件钱包品牌，其拥有支持手机端、浏览器插件、桌面客户端的完整生态，已经支持40+公链且原生支持几乎所有 EVM 链。
+官网：https://onekey.so
 
 ### App冷钱包
 
