@@ -30,11 +30,11 @@ The on-chain monitoring system developed by the SlowMist team based on years of 
 
 If the monitoring finds "unauthorized" fund transfers from the wallet address, it may be due to a currency theft attack. You can preliminarily confirm the fund transfer path through the blockchain browser, and monitor and alert the fund retention address. If you find that it is transferred to a centralized exchange, you can contact the corresponding exchange to provide related wallet addresses and transaction hash queries.
 
-In addition, you can also contact SlowMist Technology for help. SlowMist's MistTrack on-chain tracking service has served 50+ customers and recovered more than 200 million US dollars in assets.
+In addition, you can also contact SlowMist Technology for help. SlowMist's MistTrack on-chain tracking service has served 90+ customers and recovered more than 1 billion US dollars in assets.
 
 ![](images/Monitoring2.png)
 
-Relying on nearly 200 million address tags in the SlowMist BTI system and AML system, it fully covers mainstream exchanges around the world. When the stolen assets flow into the exchange, the SlowMist MistTrack system will automatically send information such as the transaction hash and exchange address to the victim. At the same time, the SlowMist MistTrack team will summarize and output the complete link list of stolen assets transfer, the balance staying address, and the summary of coin laundering, and output a complete and comprehensive analysis report to the victim.
+Relying on more than 300 million address tags in the SlowMist BTI system and AML system, it fully covers mainstream exchanges around the world. When the stolen assets flow into the exchange, the SlowMist MistTrack system will automatically send information such as the transaction hash and exchange address to the victim. At the same time, the SlowMist MistTrack team will summarize and output the complete link list of stolen assets transfer, the balance staying address, and the summary of coin laundering, and output a complete and comprehensive analysis report to the victim.
 
 After the successful filing of the theft case, the SlowMist MistTrack team will assist the police in contacting the adjustable stock exchange where the stolen assets entered, and freeze the account of the exchange involved.
 
