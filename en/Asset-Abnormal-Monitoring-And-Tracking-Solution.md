@@ -24,7 +24,9 @@ The team’s needs are recommended to find technical engineers to build a monito
 ### Recommended Monitoring System
 
 #### MistEye
-The on-chain monitoring system developed by the SlowMist team based on years of on-chain auditing and analysis experience includes malicious/attack transaction identification, contract monitoring, transfer monitoring, market price monitoring, etc. For details, please see the SlowMist official website.
+The on-chain monitoring system developed by the SlowMist team based on years of on-chain and off-chain auditing and analysis experience includes malicious/attack transaction identification, contract monitoring, transfer monitoring, market price monitoring, etc. For details, please see the official website.
+
+https://misteye.io
 
 ## Tracking On The Blockchain
 
