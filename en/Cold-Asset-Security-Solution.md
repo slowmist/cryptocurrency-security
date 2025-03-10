@@ -3,6 +3,8 @@
 ## Summary
 The cold assets in the crypto world mainly refer to large assets that are not frequently traded, and the private keys are kept in a disconnected state. In theory, the colder the asset is, the "cold" the better, that is, the private key is guaranteed to never touch the Internet, and there are as few transactions as possible to avoid exposing address information. On the one hand, the security proposal is to store the private key as "cold" as possible; on the other hand, it is to use the management process to avoid private key leakage, unexpected transfers or other unknown behaviors as much as possible.
 
+In the custody of substantial cryptocurrency assets, cold wallets play a critical role as the ultimate safeguard in asset interactions. They must achieve the highest level of security—not only through hardware-level encryption of private keys but also by implementing a "What You See Is What You Sign" (WYSIWYS) mechanism. This prevents asset losses due to ambiguous or unclear transaction signing.
+
 ![](images/ColdAsset1.png)
 
 ## Cold Wallet
@@ -32,8 +34,6 @@ Official website: https://imkey.im
 
 #### Keystone
 Keystone is an open-source airgap hardware wallet that utilizes an embedded system. The device is equipped with three secure element chips. One of Keystone’s unique features is to support multiple recovery seed phrases.
-
-Keystone is currently the only hardware wallet that is compatible with both MetaMask desktop and mobile versions.
 
 Official website: https://keyst.one
 
