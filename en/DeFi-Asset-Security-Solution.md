@@ -46,9 +46,9 @@ When using a wallet to participate in a DeFi project, due to the need to frequen
 Using hardware wallets to participate in DeFi projects will be too cumbersome to interact with hardware wallets because of the high frequency of use. Therefore, in order to meet safety and convenience at the same time, it is recommended to use multi-signature smart contracts to participate in DeFi projects.
 
 ### Multi-sign smart contract recommendation:
-Multi-signature contracts can use gnosis-safe's multi-signature solution to quickly generate a multi-signature wallet (for example, 2/3 or more parties participate) to avoid asset theft due to the leakage of the private key of a single wallet.
+Multi-signature contracts can use Safe{WALLET}'s multi-signature solution to quickly generate a multi-signature wallet (for example, 2/3 or more parties participate) to avoid asset theft due to the leakage of the private key of a single wallet.
 
-Official website：https://gnosis-safe.io
+Official website：https://safe.global
 
 ## [After] DeFi Insurance Recommended Plan
 You can select suitable well-known insurance projects to insure according to the DeFi projects you have participated in. For insurance projects, refer to the following link: 
