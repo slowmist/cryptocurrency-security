@@ -51,5 +51,4 @@
 网址：https://safe.global
 
 ## 【后】DeFi 保险推荐方案
-可以根据已参加的 DeFi 项目挑选合适的知名保险项目投保，保险项目参考如下链接：
-https://debank.com/projects?tag=insurance
+可以根据已参加的 DeFi 项目挑选合适的知名保险项目投保。

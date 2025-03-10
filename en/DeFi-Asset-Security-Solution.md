@@ -51,6 +51,4 @@ Multi-signature contracts can use Safe{WALLET}'s multi-signature solution to qui
 Official website：https://safe.global
 
 ## [After] DeFi Insurance Recommended Plan
-You can select suitable well-known insurance projects to insure according to the DeFi projects you have participated in. For insurance projects, refer to the following link: 
-
-https://debank.com/projects?tag=insurance
+You can select suitable well-known insurance projects to insure according to the DeFi projects you have participated in.
