@@ -1,6 +1,7 @@
 # 加密资产安全解决方案 - SlowMist
 
 [English Version](en/README.md)
+[Japanese Version](jp/README_JP.md)
 
 整理者：Blue@SlowMist Team
 
