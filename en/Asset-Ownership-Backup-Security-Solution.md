@@ -12,7 +12,7 @@ For the backup of private keys/mnemonics, you can also consider reducing single 
 ## Slip39
 Enhanced 20-word backup standard ensures a more robust process for backing up and recovering your wallet compared to the legacy standard. With an upgraded, user-friendly wordlist and seamless transition to Multi-share Backup, SLIP39 offers superior security with no single point of failure. Technically, it is based on Shamir's algorithm, forming a more generalized standard for cryptocurrency mnemonic phrases.
 
-Detailed introduction: https://content.trezor.io/slip39
+Detailed introduction: [https://trezor.io/slip39](https://trezor.io/slip39)
 
 ## Shamir
 The Shamir secret sharing mechanism splits the secret and distributes it to a group of people. In this algorithm, the original secret is split into n parts in an appropriate way, and each part after splitting is distributed to different participants. The configuration of the algorithm determines how many participants are ultimately required to cooperate to recover the original secret. When using the Shamir secret sharing mechanism to protect large-capacity data, the symmetric key is generally split and stored in a distributed manner, instead of directly applying the Shamir algorithm to the data. This is because the capacity of the secret to be split must be smaller than that used by the secret sharing algorithm some of the data. The UNIX/Linux version of this algorithm is called ssss, and other operating systems or programming languages have similar applications and development libraries.
